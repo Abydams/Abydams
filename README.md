@@ -37,4 +37,3 @@ I’m eager to apply my expertise in software testing while expanding my skill s
 
 ---
 | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abydams&show_icons=true&include_all_commits=true&hide_border=true" alt="Abiodun's GitHub stats" /> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abydams&langs_count=8&layout=compact&hide_border=true" alt="Abiodun's GitHub stats" /> |
-| ------------- | ------------- |
