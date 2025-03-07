@@ -19,7 +19,7 @@ I’m eager to apply my expertise in software testing while expanding my skill s
 - 💡 Fun fact:
   - I graduated from Testify Academy, [Testars Quarter](https://academy.testifyltd.com/) Class of 2024 as a software tester
   - I interned at [Testify Limited](https://www.testifyltd.com/) as a software quality assurance analyst.
-  - I was part of [DML Test-stars Cohort 03 Software Testers].
+  - I was part of DML Test-stars Cohort 03 Software Testers.
   - I graduated from [University for the creative art](https://www.uca.ac.uk/), Msc Business Management, Class of 2024.
 - 🌱 A never-ending cycle of learning Manual and Automated Testing using Postman, Cypress, Selenium, and Playwright.
 - 💼 Job interests: Software Quality Assurance Analyst/Business Analyst.
@@ -36,6 +36,5 @@ I’m eager to apply my expertise in software testing while expanding my skill s
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 
 ---
-
 | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abydams&show_icons=true&include_all_commits=true&hide_border=true" alt="Abiodun's GitHub stats" /> | <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abydams&langs_count=8&layout=compact&hide_border=true" alt="Abiodun's GitHub stats" /> |
 | ------------- | ------------- |
